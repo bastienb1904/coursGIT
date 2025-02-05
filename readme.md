@@ -1,5 +1,8 @@
 test
+<<<<<<< HEAD
 Naïd
+=======
+>>>>>>> 9c07658dcd1430bb60c0aa3eea5c832aa14db16e
 Mathis
 Bastien
 Samy 
