@@ -1,9 +1,5 @@
 test
-<<<<<<< HEAD
-Naïd
-=======
 Mathis
->>>>>>> c502490be57940e6a971097d99af2ae3dc51f433
 Bastien
 Samy 
 Elsa
